@@ -10,7 +10,8 @@
 These are super important before starting serious DSA:
 ✅ Pointers (important for linked lists, trees)
 ✅ Functions and parameters (pass by value/reference)
-✅ Recursion (DSA heavily uses recursion)
+✅ Recursion
+ (DSA heavily uses recursion)
 ✅ Arrays, 2D arrays
 ✅ Basic input/output
 ✅ Strings and string manipulation
